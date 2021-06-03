@@ -27,7 +27,6 @@ public class Marks {
 	@Column(name = "subjectId")
 	private int subjectId;
 
-	
 	public Marks() {
 		
 	}
@@ -83,5 +82,4 @@ public class Marks {
 		this.subjectId = subjectId;
 	}
 
-	
 }

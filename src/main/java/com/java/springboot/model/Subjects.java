@@ -78,14 +78,5 @@ public class Subjects {
 	public void setMark(List<Marks> mark) {
 		this.mark = mark;
 	}
-
-
-	
-	
-	
-	
-	
-	
-
 	
 }
